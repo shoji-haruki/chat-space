@@ -3,18 +3,25 @@ Name
 ====
 chat-space
 
-## Demo
+## **unfinished**
+**The finished product is chat-space 2**
 
 
 ## Overview
-- user registration
+- New user registration, edit
 - Login, Logout
-- Post, edit, delete text
+- Create group, edit
+- Post message
+- Image upload
 - Display flash message
+- Message posting is asynchronous communication
+- Automatic update every 5 seconds
 
 ## Description
 - user registration-New registration is required to post
 - Login, Logout-Menu changes when logging out
+- Create group, edit-
+- Image upload-
 - Post, edit, delete text-Registration makes it possible to submit new posts. You can edit and delete only your own posts
 - Display flash message-A flash message will be displayed according to the screen to improve usability
 
