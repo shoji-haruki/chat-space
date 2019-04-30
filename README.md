@@ -33,7 +33,7 @@ chat-space
 
 ## Dependency
 - ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-darwin18]
-- Rails 5.2.2.1
+- Rails 5.0.7.2
 
 ## Database
 
