@@ -1,7 +1,7 @@
 # README
 Name
 ====
-chat-space
+chat-space(Tech Expert Curriculum, Chat App)
 
 ## **unfinished**
 **The finished product is chat-space 2**
